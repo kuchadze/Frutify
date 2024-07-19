@@ -1,0 +1,11 @@
+import styles from "./ErrorLable.module.scss"
+
+interface Props {
+    value:string;
+}
+
+const ErrorLable = () => {
+    return(
+
+    )
+}
